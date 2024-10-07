@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kawas 
-- 👀 I’m interested in Go,C,Java
-- 🌱 I’m currently learning CSS,Data Structures,Python
+- 👀 I’m interested in Go,C,Java,Python
+- 🌱 I’m currently learning Js,Data Structures,Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
