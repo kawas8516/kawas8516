@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Kawas 
-- 👀 I’m interested in Go,C,Java,Python
-- 🌱 I’m currently learning Js,Data Structures,Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+# 👋 Hi, I’m Kawas 
+
+- 👀 **Interests:** Go, C, Java, Python
+- 🌱 **Currently Learning:** JavaScript, Data Structures, Python
+- 💻 **Looking to Collaborate On:** Open-source projects, software development, and innovative tech solutions
+- 📫 **Reach Me:**  
+   - [LinkedIn](https://www.linkedin.com/in/kawas-nandan/) 
+
 
 
 <!---
