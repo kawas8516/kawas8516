@@ -3,8 +3,7 @@
 - 👀 **Interests:** Go, C, Java, Python
 - 🌱 **Currently Learning:** JavaScript, Data Structures, Python
 - 💻 **Looking to Collaborate On:** Open-source projects, software development, and innovative tech solutions
-- 📫 **Reach Me:**  
-   - [LinkedIn](https://www.linkedin.com/in/kawas-nandan/) 
+- 📫 **Reach Me:**  [LinkedIn](https://www.linkedin.com/in/kawas-nandan/) 
 
 
 
