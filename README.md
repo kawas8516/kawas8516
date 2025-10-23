@@ -2,7 +2,7 @@
 # Hi there, I'm Kawas alias Kaustubha 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=2000&color=F7DF1E&width=700&height=50&lines=Ideater%3F+Problem+Solver;Backend+Developer;Building+scalable+systems+%E2%9A%A1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kawas-nandan)  
 
 ---
 
@@ -64,7 +64,7 @@ These projects are perfect for beginners who want to **practice coding, Git, and
 ## 🎉 Fun / Personal Touch
 ![Coffee](https://img.shields.io/badge/Coffee-☕-brown?style=flat-square) ![Music](https://img.shields.io/badge/Music-🎵-purple?style=flat-square) ![Art](https://img.shields.io/badge/Art-🎨-orange?style=flat-square)
 
-- 🎵 Fan of Indian classical music & fine arts
+- 🎵 Fan of music & fine arts
 - 🌍 Love exploring **UNESCO heritage sites & cultural history**
 - ☕ Coffee-driven coder  
 - ⚡ Motto: *Build. Learn. Iterate.*  
