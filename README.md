@@ -30,7 +30,7 @@
 **What:** Java-based scheduling application to manage and track daily/weekly tasks.  
 **Tech:** Java, OOP principles, GUI-based task management.  
 
-### [CLI Utilities (C / C++)](https://github.com/kawas8516/CLI-Utilities)  
+### [CLI Utilities (C / C++)](https://github.com/kawas8516/cpp-windows-system-utility-tool)  
 **What:** Collection of system utilities and command-line tools — interactive mode, improved error handling.  
 **Tech:** C, C++.  
 
