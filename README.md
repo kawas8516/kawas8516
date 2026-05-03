@@ -24,7 +24,7 @@
 
 ---
 
-## 📌 Featured Projects
+## What I've built
 
 ### [Java Task Scheduler](https://github.com/kawas8516/Taskscheduler)  
 **What:** Java-based scheduling application to manage and track daily/weekly tasks.  
