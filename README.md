@@ -26,14 +26,14 @@
 
 ## What I've built
 
+### [Java Task Scheduler](https://github.com/kawas8516/Taskscheduler)  
+**What:** Java-based scheduling application to manage and track daily/weekly tasks.  
+**Tech:** Java, OOP principles, GUI-based task management.
+
 ### [e-PDS — Digital Ration Card Management System](https://github.com/kawas8516/e-pds)  
 **What:** Jakarta EE web app digitizing India's Public Distribution System — citizen self-registration with automatic BPL/APL classification, family/ration-card dashboards, complaint filing, and an admin module for stock, audits, and allocations.  
 **Tech:** Java 21, Jakarta EE 6, Apache Tomcat 10.1, PostgreSQL (Supabase), Tailwind CSS, jBCrypt.  
-**Highlights:** RBAC via `AuthFilter`, CSRF tokens, session rotation + 30-min idle timeout, `HttpOnly`/`Secure`/`SameSite=Strict` cookies, audit logging.
-
-### [Java Task Scheduler](https://github.com/kawas8516/Taskscheduler)  
-**What:** Java-based scheduling application to manage and track daily/weekly tasks.  
-**Tech:** Java, OOP principles, GUI-based task management.  
+**Highlights:** RBAC via `AuthFilter`, CSRF tokens, session rotation + 30-min idle timeout, `HttpOnly`/`Secure`/`SameSite=Strict` cookies, audit logging.  
 
 ### [CLI Utilities (C / C++)](https://github.com/kawas8516/cpp-windows-system-utility-tool)  
 **What:** Collection of system utilities and command-line tools — interactive mode, improved error handling.  
