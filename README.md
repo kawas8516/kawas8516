@@ -26,6 +26,10 @@
 
 ## What I've built
 
+### [Food Waste Chatbot](https://github.com/kawas8516/chat-cooking)  
+**What:** Suggests recipes from available ingredients and gives storage tips using RAG + NLP.  
+**Tech:** Gradio, FAISS, Sentence Transformers, HTMX.  
+
 ### [Java Task Scheduler](https://github.com/kawas8516/Taskscheduler)  
 **What:** Java-based scheduling application to manage and track daily/weekly tasks.  
 **Tech:** Java, OOP principles, GUI-based task management.
@@ -39,9 +43,6 @@
 **What:** Collection of system utilities and command-line tools — interactive mode, improved error handling.  
 **Tech:** C, C++.  
 
-### [Food Waste Chatbot](https://github.com/kawas8516/Food-Waste-Chatbot)  
-**What:** Suggests recipes from available ingredients and gives storage tips using RAG + NLP.  
-**Tech:** Django, FAISS, Sentence Transformers, HTMX.  
 
 ---
 
