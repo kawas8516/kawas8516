@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-- 💻 MCA Student specializing in **Backend Development & Dev Relations**
-- 🔧 Experienced building **chatbots, system utilities, and scalable web apps**
-- 🌱 Exploring **AI/ML (RAG, LLMs)**, cloud deployment, and robust backend patterns
-- 🎯 Aspiring SDE focused on clean code, automation, and practical tools that solve real problems
+- 💻 MCA student focused on **backend development**
+- 🔧 Shipped **7+ projects** spanning chatbots, system utilities, and full-stack web apps
+- 🌱 Building with **AI/ML (RAG, LLMs)** and applying them to practical, real-world tools
+- 🎯 Aiming for an SDE role — clean code, automation, systems that hold up in production
 
 ---
 
@@ -27,62 +27,44 @@
 
 ## What I've built
 
-### [MapToPoster](https://github.com/kawas8516/maptoposter)
+### [MapToPoster](https://github.com/kawas8516/maptoposter) · [Live](https://maptoposter-main.streamlit.app/)
 
-**What:** Turns cities into minimalist map posters, with AI-generated color themes from photos or text descriptions.
+Turns any city into a minimalist map poster, with AI-generated color themes derived from a photo or a text description. Every theme runs through legibility and contrast checks before rendering, so text and roads stay readable.  
 **Tech:** Python, Streamlit, Hugging Face (Qwen, CLIP), PyTorch, osmnx, Matplotlib.
-**Links:** [Live](https://maptoposter-main.streamlit.app/)
 
-### [Arxivore](https://github.com/kawas8516/arxivore-tool)
+### [Arxivore](https://github.com/kawas8516/arxivore-tool) · [Live](https://huggingface.co/spaces/kawas8516/arxivore)
 
-**What:** Search arXiv papers with plain-English queries; synthesizes a landscape map of clusters, relationships, and gaps.
+Searches arXiv with plain-English queries and synthesizes a landscape map of clusters, relationships, and gaps across the results. Reranks candidates by semantic relevance, then extracts and cross-analyzes insights from each paper concurrently.  
 **Tech:** FastAPI, LLM (OpenRouter/Gemini), Alpine.js, Tailwind CSS.
-**Links:** [Live] (https://huggingface.co/spaces/kawas8516/arxivore))
 
 ### [Food Waste Chatbot](https://github.com/kawas8516/chat-cooking)
 
-**What:** Suggests recipes from available ingredients and gives storage tips using RAG + NLP.  
+Suggests recipes from ingredients on hand and gives storage tips, powered by RAG + NLP. Aims to cut food waste by matching what's already in the kitchen to usable dishes.  
 **Tech:** Gradio, FAISS, Sentence Transformers, HTMX.
 
 ### [Java Task Scheduler](https://github.com/kawas8516/Taskscheduler)
 
-**What:** Java-based scheduling application to manage and track daily/weekly tasks.  
-**Tech:** Java, OOP principles, GUI-based task management.
+Java desktop app for scheduling and tracking daily/weekly tasks. Built around core OOP design, with a GUI for adding, editing, and monitoring task status.  
+**Tech:** Java, OOP, GUI-based task management.
 
 ### [e-PDS — Digital Ration Card Management System](https://github.com/kawas8516/e-pds)
 
-**What:** Jakarta EE web app digitizing India's Public Distribution System — citizen self-registration with automatic BPL/APL classification, family/ration-card dashboards, complaint filing, and an admin module for stock, audits, and allocations.  
+Jakarta EE web app digitizing India's Public Distribution System — citizen self-registration with automatic BPL/APL classification, family/ration-card dashboards, complaint filing, and an admin module for stock, audits, and allocations. Built with production-grade auth and session handling, not just a CRUD demo.  
 **Tech:** Java 21, Jakarta EE 6, Apache Tomcat 10.1, PostgreSQL (Supabase), Tailwind CSS, jBCrypt.  
 **Highlights:** RBAC via `AuthFilter`, CSRF tokens, session rotation + 30-min idle timeout, `HttpOnly`/`Secure`/`SameSite=Strict` cookies, audit logging.
 
 ### [CLI Utilities (C / C++)](https://github.com/kawas8516/cpp-windows-system-utility-tool)
 
-**What:** Collection of system utilities and command-line tools — interactive mode, improved error handling.  
+System utilities and command-line tools with an interactive mode and solid error handling. Covers common Windows system tasks without needing a GUI.  
 **Tech:** C, C++.
-
----
-
-## 🌱 Beginner-Friendly Projects
-
-These projects are perfect for beginners who want to **practice coding, Git, and GitHub contributions**.
-
-### [Railway Reservation System](https://github.com/kawas8516/Railway-Reservation-System)
-
-**What:** A simple Python project for railway ticket booking.  
-**Why:** Learn Python basics, file handling, and console-based project workflow.
-
-### [Shopping Cart](https://github.com/kawas8516/shopping-cart)
-
-**What:** Python-based shopping cart system.  
-**Why:** Practice OOP, data handling, and basic project structuring.
 
 ---
 
 ## 🎯 Current Focus
 
 - Strengthening backend architecture & system design
-- Integrating LLMs and retrieval-augmented pipelines into practical apps
-- Preparing production-ready open-source projects for my portfolio
+- Shipping LLM/RAG pipelines as real, usable tools instead of demos
+- Getting projects to production quality — tests, docs, deploys — not just "done"
 
 ---
 
